@@ -1,13 +1,15 @@
-# TransportProblem
-Java client server App with Spring Boot
+# LibrarySystem
+Java client-server App with Spring Boot
 
 Idea: 
-Passangers should pay their transport in a train or bus, if not the can get controlled and be fined $$$ :/
+Logged Employees can add and remove books from the library and students can rent them.
 
 3 Layer Architecture:
--Client 
--Server
--DataBase
+- Client 
+- Server
+- DataBase 
+
+Communication client server is with an HTTP protocol and communication between server and the database is implemented in Springboot H2 (SQL)
  
 Using the next dependencies(Check Maven):
 - H2 Databases
