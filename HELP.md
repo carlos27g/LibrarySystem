@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name '.TransportProblem' is invalid and this project uses 'TransportProblem' instead.
+* The original package name '.LibrarySystem' is invalid and this project uses 'LibrarySystem' instead.
 
 # Getting Started
 
